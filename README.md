@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @iradukundapaci
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @iradukunda pacifique
+- 👀 I’m interested in problem solving
+- 🌱 I’m currently learning software engineering
+- 💞️ I’m looking to collaborate on intersting project
+- 📫 How to reach me paifique57@gmail.com
 
 <!---
 iradukundapaci/iradukundapaci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
